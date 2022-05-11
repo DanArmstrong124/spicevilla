@@ -1,3 +1,8 @@
+.nav-bar {
+    background: #3d1436 !important;
+    border-bottom: #db9c39 !important;
+}
+
 .menu-bar {
     position: absolute; 
     top: 100px;
@@ -27,7 +32,6 @@ nav #thecastlelogo {
   }
   .nav-bar {
       height: 120px;
-      background: #3d1436;
   }
   nav #thecastlelogo {
       width: 150px;

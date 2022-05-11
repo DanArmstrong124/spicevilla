@@ -34,7 +34,7 @@
 }
 
 .img-gallery-area {
-    background: url('../img/restaurant.jpg');
+    background: url('../img/gallery1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: 8.333333%;
@@ -50,39 +50,39 @@
 }
 
 .galleryimg {
-    background: url('../img/index/2.jpg');
+    background: url('../img/gallery1.jpg');
     background-position: center;
     background-size: cover;
     margin: 10px;
-    border: 2px solid #b49a69;
+    border: 2px solid #db9c39;
 }
 
 .galleryimg2 {
-    background: url('../img/index/3.jpg');
+    background: url('../img/gallery2.jpg');
     background-position: center;
     background-size: cover;
     margin: 10px;
-    border: 2px solid #b49a69;
+    border: 2px solid #db9c39;
 }
 
 .galleryimg3 {
-    background: url('../img/index/4.jpg');
+    background: url('../img/gallery3.jpg');
     background-position: center;
     background-size: cover;
     margin: 10px;
-    border: 2px solid #b49a69;
+    border: 2px solid #db9c39;
 }
 
 .galleryimg4 {
-    background: url('../img/index/5.jpg');
+    background: url('../img/gallery4.jpg');
     background-position: center;
     background-size: cover;
     margin: 10px;
-    border: 2px solid #b49a69;
+    border: 2px solid #db9c39;
 }
 
 .button-boxes-padded {
-    border: 1px solid #b49a69;
+    border: 1px solid #db9c39;
     margin-right: auto;
     margin-left: auto;
     width: 50%;

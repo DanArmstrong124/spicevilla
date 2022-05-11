@@ -27,6 +27,7 @@ nav #thecastlelogo {
   }
   .nav-bar {
       height: 120px;
+      background: #3d1436;
   }
   nav #thecastlelogo {
       width: 150px;
@@ -34,6 +35,7 @@ nav #thecastlelogo {
   }
     .menu-btn {
         font-size: 16px;
+        color: #db9c39;
     }
 }
 

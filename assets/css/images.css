@@ -20,21 +20,21 @@
 }
 
 .img-food-area {
-    background: url('../img/index/food.jpg');
+    background: url('../img/menu1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: 16.666667%;
 }
 
 .img-drink-area {
-    background: url('../img/index/1.png');
+    background: url('../img/restaurant.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: 8.333333%;
 }
 
 .img-gallery-area {
-    background: url('../img/index/gallery.jpg');
+    background: url('../img/restaurant.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: 8.333333%;
